@@ -1,5 +1,5 @@
 # INSTAGRAM OBJECT
-  * ## POST
+  * ## **POST**
        ### 1. SIZE
               1. SQUARE
                  * Respect ratio of 1:1
@@ -15,5 +15,5 @@
              * BODY
              * FOOTER
       ### 1. STYLE
-  * ## STORY
+  * ## **STORY**
   
